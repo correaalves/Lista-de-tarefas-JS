@@ -1,0 +1,16 @@
+body {
+    background-color: blueviolet;
+}
+
+.header-menu{
+    text-align: center;
+    color: yellowgreen;
+}
+
+.button{
+    background-color:pink;
+}
+
+.to-do-list{
+    background-color: aquamarine;
+}
