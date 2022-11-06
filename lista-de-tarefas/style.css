@@ -1,10 +1,10 @@
 body {
-    background-color: blueviolet;
+    background-color: #30ee62;
 }
 
 .header-menu{
     text-align: center;
-    color: yellowgreen;
+    color: #f8208e;
 }
 
 .button{
@@ -12,5 +12,5 @@ body {
 }
 
 .to-do-list{
-    background-color: aquamarine;
+    background-color: #ebfff8;
 }

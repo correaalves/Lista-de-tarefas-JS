@@ -67,8 +67,7 @@ const removerTarefa = (id) => {
     const novaListaTarefa = listaTarefas.filter(tarefa => tarefa !== tarefaDeletada)
     localStorage.setItem('lista-tarefas', JSON.stringify(novaListaTarefa))
     document.querySelector('#lista-tarefas').innerHTML = ''
-    exibirLista()
+    
 }
-
 
 exibirLista()
